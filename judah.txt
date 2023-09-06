@@ -1,0 +1,18 @@
+Imagine you had the option while using chatGPT to get the 10 most perfect
+search results online for the topics you were asking about. Not just search
+results but also youtube links. things that can maybe back up its responce and
+give you good insight when you are looking for things like responses from real
+people. You can even just use it as something on top of a search engine that
+helps you understand the information you are actually looking for. In other
+words making sure you understand the answer and the question before you start
+actaully trying to google seasrch. 
+
+this is an improvement over the regular way of search right now because the old
+way of doing search before gpt is that you iterate search querys into google
+until you get closer to understanding why you are wrong given small hints and
+context clues and understanding what you are missing. gpt queries are kind of
+the opposite of that you fill in the information that you dont understand until
+you educate yourself to understand the answer. But sometimes in the peak of
+that understanding of your question I would appreciate a google check
+especially if there is a way to craft a small amount links that are all super
+relevent and helpful.
