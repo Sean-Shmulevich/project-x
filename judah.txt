@@ -17,6 +17,74 @@ that understanding of your question I would appreciate a google check
 especially if there is a way to craft a small amount links that are all super
 relevent and helpful.
 
-sometimes gpt need to add simplicity and step back to solve a problem instead of adding complexity to solve a problem. it gets stuck in a loop like this sometimes
+sometimes gpt need to add simplicity and step back to solve a problem instead
+of adding complexity to solve a problem. it gets stuck in a loop like this
+sometimes
 
-right now when you use chat gpt you sometimes need to ask questions that it has already answered but you dont want to try to have to find the conversation again
+right now when you use chat gpt you sometimes need to ask questions that it has
+already answered but you dont want to try to have to find the conversation
+again
+
+Provide context of a large dataset (like a textbook) and it will scan your
+large dataset for tokens that match your prompt or it will look in the
+locations that you tell it to.
+
+Sometimes gpt gets stuck in a loop where its base solution is incorrect and it
+iterates on that solution, increasing its complexity when in reality the best
+solution is to step back and consider new solutions
+
+The prompting should have prompting in it. When you prompt chat gpt you mini
+actions that you do to enhance your prompt. Maybe a list of mini actions you
+can do on your prompt.
+
+Graph like structure of everything that you use gpt for, different sections of
+the graph represent different topics you use gpt for. 
+
+As you zoom in you see more specific details of groups and topics of
+conversations. 
+
+As you zoom out you see more general topics and groups of conversations.
+
+A tool for people to change the structure of how they are connected to human
+information 
+
+We can insert prompts in the background of the conversations saying a structure
+for how to generate something, Ex: A venn diagram. then we can take the output
+and generate the ven diagram ourselvs. 
+
+You can create workflows that for example create worksheets based off a
+specific textbook. this could be a great tool for teachers and students. kind
+of like an ai bot structure.
+
+you should be able to reuse bits of conversations that you have have in the
+past or ones that you use often.
+
+sometimes when you are learning with chatgpt you start with a question and a
+broad goal of something you want to accomplish. 
+
+You ask a question with the
+intent of learning, and solving a problem that you maybe dont know that much
+about yet you need to zoom into information and take a specific path through gpt to get the answer you want and understand the answer in the process. 
+zooming into information would be an intuative way to do this.
+
+Really good way to store and look at overview of conversations.
+
+Block building system. 
+
+Different workspaces with AI,s that had different purposes, different default history/contexts. 
+
+Identity workspace threads
+
+Copy and paste bits of context into new conversations
+
+Not sure exactly how the block building system would work but that would really determine if its user friendly or not 
+
+Generate .sh files for deployment with certain context about your filesystem
+
+Possibly trie like structrure for a block. 
+
+
+
+
+
+
