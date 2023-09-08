@@ -25,6 +25,8 @@ sometimes gpt need to add simplicity and step back to solve a problem instead
 of adding complexity to solve a problem. it gets stuck in a loop like this
 sometimes
 
+Deep learning model to the for autocorrecting when the user writes prompts
+
 it could also maybe connect to your browser and understand your search
 results/questions and provide itself with prompts you can ask it to answer your
 question with gpt. So like a chrome extention connected to our app
