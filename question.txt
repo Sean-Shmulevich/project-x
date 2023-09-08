@@ -1,3 +1,14 @@
+I want to really focus on the block building system, what are the blocks
+really made of how does the intuitive brain structure work, how are ideas
+connected and encapsulated to make a web that grows and automatically places
+conversations in the correct spot on that web of encapsulated ideas where they
+belong.
+
+CONCRETE IDEA FOR HOW THE APP WORKS:
+When you open up a new convo, you either start from a new context, choose one that you usually use, or choose one that you have created to do a specific purpose.
+The brain structure comes in when you then zoom out to see your chat history which is grouped into categories. 
+In order to best categorize the history we would probably need some deep learning models, seperate from chatGPT language learning model
+
 Needs to be intuitive
 Needs to be powerful
 
