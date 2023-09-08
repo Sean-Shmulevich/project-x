@@ -9,6 +9,12 @@ When you open up a new convo, you either start from a new context, choose one th
 The brain structure comes in when you then zoom out to see your chat history which is grouped into categories. 
 In order to best categorize the history we would probably need some deep learning models, seperate from chatGPT language learning model
 
+If you end up viewing a webpage you can add the text content of the website to
+the conversation and you will forever be able to refernce the content of the
+website in all of the conversations that are in that topic group. It would
+remember how you use it
+
+
 Needs to be intuitive
 Needs to be powerful
 

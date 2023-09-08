@@ -17,6 +17,10 @@ that understanding of your question I would appreciate a google check
 especially if there is a way to craft a small amount links that are all super
 relevent and helpful.
 
+If you end up viewing a webpage you can add the text content of the website to
+the conversation and you will forever be able to refernce the content of the
+website in all of the conversations that are in that topic group
+
 sometimes gpt need to add simplicity and step back to solve a problem instead
 of adding complexity to solve a problem. it gets stuck in a loop like this
 sometimes
