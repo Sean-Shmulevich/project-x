@@ -1,0 +1,4 @@
+How does the concept of a DFA relate to the concept of chatGPT
+
+1. DFA accepts or rejects strings, whatever string it accepts is part of the language of that DFA
+2. 
