@@ -25,6 +25,10 @@ sometimes gpt need to add simplicity and step back to solve a problem instead
 of adding complexity to solve a problem. it gets stuck in a loop like this
 sometimes
 
+it could also maybe connect to your browser and understand your search
+results/questions and provide itself with prompts you can ask it to answer your
+question with gpt. So like a chrome extention connected to our app
+
 right now when you use chat gpt you sometimes need to ask questions that it has
 already answered but you dont want to try to have to find the conversation
 again
