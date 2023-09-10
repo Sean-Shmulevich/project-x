@@ -131,7 +131,9 @@ No like it doesn’t remember something I asked it a week ago about python when
 I’m in the middle of a different conversation about math and I need to connect
 those two ideas
 
-
+I use gpt for random unorganized ideas, Feed in data, or personal thoughts that
+are long and/or unorganized. Get out an organized and distilled version of what
+I said
 
 
 

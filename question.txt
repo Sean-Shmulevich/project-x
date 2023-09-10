@@ -1,3 +1,6 @@
+Yeah I wonder what the developers are thinking in terms of integrating the chats and creating like an auto history of topics that you communicate to ChatGPT about
+
+
 I want to really focus on the block building system, what are the blocks
 really made of how does the intuitive brain structure work, how are ideas
 connected and encapsulated to make a web that grows and automatically places
