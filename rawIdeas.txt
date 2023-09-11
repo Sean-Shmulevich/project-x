@@ -153,3 +153,6 @@ Project-x idea,
 Free for everyone, but after a certain amount of tokens you have to pay for more tokens or pay for a subscription.
 Maybe you can provide your own gpt API token?
 Buisnesses can pay to get a mindmap of all of the interactions that everybody in the buisness has with gpt API.
+
+I want to make it so that no matter where you are or what you are asking with
+gpt you always have the correct context passed in from your history.
