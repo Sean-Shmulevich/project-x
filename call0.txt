@@ -1,0 +1,30 @@
+My brain has been pregnant and now you guys are helping me deliver it.
+
+Start: 9:10 PM
+Intros: 9:15 PM
+20min- First overview of all of the ideas in the repository, seperate into questions, features, problems and misc
+We could also map all of the raw data.
+
+10 minutes fully define the problem problem, maybe do the worksheet, Abstraction Ladder.
+note - gpt history, gpt context, gpt browserIntegration
+
+Turn the all of the ideas into as many distinct seperate products as possible
+this will help us determine how to build the app in a progressive way. 
+
+After we have a few possible paths of ideas. we should then discuss pauls list of competitors.
+
+-make sure to really think about what buttons say
+
+what does the template for a tech/software product look like 
+
+Who is it for.
+
+Why would people pay for it.
+
+Anything paul wants to say.
+
+need to try to break down the parts of the problem.
+
+
+
+

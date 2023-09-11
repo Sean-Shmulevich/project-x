@@ -156,3 +156,21 @@ Buisnesses can pay to get a mindmap of all of the interactions that everybody in
 
 I want to make it so that no matter where you are or what you are asking with
 gpt you always have the correct context passed in from your history.
+
+WHEN DO I USE INTERNET:
+When I need web tools, for example:
+
+quadratic equations solver 
+bulk resize images
+bulk rename files
+
+Let our tool recognize when to google search for tools like this.
+
+show the browser somehow seemelessly within the conversation and allow some
+type of management of this history of opened browser tabs. How does this work
+in a RAM context meaning every time you open our app one session. If the
+management of a current session of using gpt was good enough you could also use
+our app to keep track of your tabs
+
+
+Judah and I just had to transfer files between computers, i thought to look up "Transfer file over wifi online" what if gpt could tell you that things like that exist.
