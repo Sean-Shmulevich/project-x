@@ -58,3 +58,6 @@ if know everything you have every asked ift about a specifc topic that you deal 
 
 All the information for a specifc topic 
 What if 
+
+My coworker just asked me a question about something that I was talking to gpt about a week or so ago and I did not know the exact answer to his question becausae I
+lost the convo thread. I would like to be able to do a top level search of all of the conversations that I have had with gpt about a specific topic.
