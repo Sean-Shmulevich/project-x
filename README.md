@@ -6,10 +6,10 @@
 2. Context should be portable. You should be able to tell it to remember something and when
 3. We want to auto-determine where a question should go. put it into the right conversation or folder.
 4.  Browser integrations make it easy to communicate with the internet. 
- - Turn the conversation topic into 10 best possible search results
- - Check the validity of Ai generated information against the internet.
- - Find a website and feed the content of that website to the AI to ask questions about it.
- - Automatically determine when a prompt should go straight to search results.
+- Turn the conversation topic into 10 best possible search results
+- Check the validity of Ai generated information against the internet.
+- Find a website and feed the content of that website to the AI to ask questions about it.
+- Automatically determine when a prompt should go straight to search results.
 
 ## Concrete idea of app flow
 - When you open up a new convo, you either start from a new context, choose one
