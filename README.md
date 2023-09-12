@@ -19,6 +19,7 @@ history which is grouped into categories. we want to automatically know where
 in your history a new question would go. In order to best categorize the
 history we would probably need some deep learning models, seperate from chatGPT
 language learning model
+- each node on the graph will be a group of conversations about one topic.
 
 - You still ask questions in a linear chat but the context of the questions that
 you ask isnt necessarily linked to that specific conversation thread. You can
