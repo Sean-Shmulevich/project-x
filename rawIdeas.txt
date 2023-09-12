@@ -172,7 +172,6 @@ in a RAM context meaning every time you open our app one session. If the
 management of a current session of using gpt was good enough you could also use
 our app to keep track of your tabs
 
-
 Judah and I just had to transfer files between computers, i thought to look up "Transfer file over wifi online" what if gpt could tell you that things like that exist.
 
 Lets say you have a GPT query and you get a responce. Imagine you could
