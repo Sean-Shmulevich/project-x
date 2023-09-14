@@ -1,0 +1,20 @@
+For the next week at work I want to write times when I wish this existed. I'll
+ask judah to do it too. Or places where it would be power.
+
+- bringing old convos into new ones
+
+1. why doesnt gpt let you get a full history of everything you do with it? 
+2. why doesnt openAi allow you to reference another conversation thread?
+3. why doesnt openAi allow you to interact with traditional search, it does but not by default 
+4. why doesnnt gpt help you generate search queries and help you find the best most reliable resources
+5. why arent chatbots somewhere you go for all queries
+6. why aren't there any tools that help you organize all of the search you do on bots and on google into a 
+non-linear format that is understandable from a wide view.
+7. why is finding something in your history like how it is now.
+8. why doesnt search history show things in groups of topics you search rather
+then showing them based off how recent they are.
+9. Why dont people have a way of seeing an overview of their search history
+within a specific time period in a cohesive way.
+
+
+

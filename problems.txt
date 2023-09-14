@@ -1,0 +1,5 @@
+With the idea of history graph, there is an issue with picking what a
+conversation is about, for example I work at fine.dev and maybe I would want to
+see this in the graph, but I also work on my own personal javascript projects I
+would want to see them in the graph as well but I would probably want
+seperation between these two things.
