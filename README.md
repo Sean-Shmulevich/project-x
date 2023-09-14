@@ -6,10 +6,10 @@
 2. Context should be portable. You should be able to tell it to remember something and when
 3. We want to auto-determine where a question should go. put it into the right conversation or folder.
 4.  Browser integrations make it easy to communicate with the internet. 
-  - Turn the conversation topic into 10 best possible search results
-  - Check the validity of Ai generated information against the internet.
-  - Find a website and feed the content of that website to the AI to ask questions about it.
-  - Automatically determine when a prompt should go straight to search results.
+- Turn the conversation topic into 10 best possible search results
+- Check the validity of Ai generated information against the internet.
+- Find a website and feed the content of that website to the AI to ask questions about it.
+- Automatically determine when a prompt should go straight to search results.
 
 
 ## Concrete idea of app flow
@@ -20,6 +20,7 @@ history which is grouped into categories. we want to automatically know where
 in your history a new question would go. In order to best categorize the
 history we would probably need some deep learning models, seperate from chatGPT
 language learning model
+- each node on the graph will be a group of conversations about one topic.
 
 - You still ask questions in a linear chat but the context of the questions that
 you ask isnt necessarily linked to that specific conversation thread. You can
@@ -46,6 +47,7 @@ And maybe you ask it to edit each paragraph slightly as you are making them
 - programmable blocks of context that you can bring into your chats at any specific moment to maybe perform some action on the data in the conversation.
 for example, a programmable block that consists of just one prompt that says "Turn the conversation into a summary read by a rabbi" 
 - or maybe take the data above and ask me some questions about it so that you can have enough data to generate some kind of graph or something
+- Another undeveloped idea, what does the graph look like in order for people to find the conversations they need quickly
 
 ## Smaller potential ideas
 1. Feeding formats to create new things. functions for GPT
